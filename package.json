@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://DutuGabriel.github.io/Team-3-project"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
