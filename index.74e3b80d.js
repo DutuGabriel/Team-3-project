@@ -1,0 +1,2 @@
+(()=>{const o={openModalBtn:document.querySelectorAll("[data-modal-open]"),closeModalBtn:document.querySelector("[data-modal-close]"),modal:document.querySelector("[data-modal]")};function e(){o.modal.classList.toggle("is-hidden"),document.body.classList.toggle("no-scroll")}o.openModalBtn.forEach((o=>{o.addEventListener("click",e)})),o.closeModalBtn.addEventListener("click",e)})();
+//# sourceMappingURL=index.74e3b80d.js.map
